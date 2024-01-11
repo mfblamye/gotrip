@@ -1,0 +1,48 @@
+@media screen and (max-width:1180px) {
+    .about__wrap {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .header__nav {
+        flex-direction: column;
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .header__nav-list {
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .catalog {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .titles {
+        flex-direction: column;
+        text-align: center;
+
+    }
+}
+@media screen and (max-width:780px) {
+    .container-contacts {
+       flex-direction: column;
+    }
+}
+@media screen and (max-width:780px) {
+    .contacts__hz {
+       margin-top: 20px;
+    }
+}
+@media screen and (max-width:780px) {
+    .contacts__call-container{
+       margin-bottom: 20px;
+    }
+}
