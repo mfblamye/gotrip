@@ -31,18 +31,21 @@
 
     }
 }
+
 @media screen and (max-width:780px) {
     .container-contacts {
-       flex-direction: column;
+        flex-direction: column;
     }
 }
+
 @media screen and (max-width:780px) {
     .contacts__hz {
-       margin-top: 20px;
+        margin-top: 20px;
     }
 }
+
 @media screen and (max-width:780px) {
-    .contacts__call-container{
-       margin-bottom: 20px;
+    .contacts__call-container {
+        margin-bottom: 20px;
     }
 }
