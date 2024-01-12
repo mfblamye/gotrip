@@ -49,3 +49,8 @@
         margin-bottom: 20px;
     }
 }
+@media screen and (max-width:780px) {
+    .contact__title {
+       text-align: center;
+    }
+}
